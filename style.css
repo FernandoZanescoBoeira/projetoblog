@@ -142,10 +142,10 @@ aside{
 
 #sobreMim img {
     display: block;
-    width: 170px;
-    height: 200px;
+    width: 120px;
+    height: 120px;
     margin: 5px auto;
-    border-radius: 50%;
+    border-radius: 60%;
     object-fit: none;
 }
 
