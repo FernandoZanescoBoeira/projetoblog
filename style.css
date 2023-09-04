@@ -142,11 +142,11 @@ aside{
 
 #sobreMim img {
     display: block;
-    width: 160px;
+    width: 150px;
     height: 150px;
     margin: 5px auto;
-    border-radius: 50%;
-    object-fit: none;
+    border-radius: 100%;
+    object-fit:none;
 }
 
 #sobreMim h3 {
